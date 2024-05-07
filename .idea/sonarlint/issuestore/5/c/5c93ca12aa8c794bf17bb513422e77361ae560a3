@@ -1,0 +1,11 @@
+
+´
+java:S1130"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(ÙØ¤Þýÿÿÿÿ8ÿÏ³úå1J$8ad8b725-a15c-4d15-a7b6-341b12914f88
+m	java:S106"+Replace this use of System.out by a logger.(Â“ÂÃ8‚Ð³úå1J$7d545be6-5dd8-4864-b84d-6cd662c84ae1
+r
+java:S2201"/The return value of "toHexString" must be used.(¸­ôÝ8‚Ð³úå1J$43e2ee53-712d-4fc9-8cbb-47c69bb0a900
+~	java:S125"<This block of commented-out lines of code should be removed.(Ó†¨ù8ƒÐ³úå1J$2cd00d0f-3ca7-4576-b2be-e5384b23d956
+p	java:S108")Either remove or fill this block of code.(ù«êËýÿÿÿÿ8„Ð³úå1J$fbf381b6-d966-4776-b9f3-4f9f071811c7
+r	java:S106"+Replace this use of System.out by a logger.(õ–€¸úÿÿÿÿ8„Ð³úå1J$e620c199-7e32-4700-b157-dcfad5122a46
+~	java:S125"<This block of commented-out lines of code should be removed.(Õûè”8„Ð³úå1J$00aebd43-bdbb-4840-a607-3c8f8eb7a90e
+~	java:S125#"<This block of commented-out lines of code should be removed.(‹Éÿ¼8„Ð³úå1J$e213b937-a985-4b5e-a2af-05aef44d599f
